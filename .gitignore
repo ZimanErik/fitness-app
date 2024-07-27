@@ -1,0 +1,6 @@
+fitness-app-venv/
+# Ignore everything inside the logs directory
+.git/*
+
+# Do not ignore the logs directory itself
+!.git/
